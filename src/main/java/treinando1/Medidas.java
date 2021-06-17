@@ -11,7 +11,7 @@ public class Medidas {
     // 3.2 - Métodos ( faz mas nao da retorno) e Funções ( faz e da um retorno, resultado...)
     public static void main(String[] args){
         System.out.println("Cálculo de Areas");
-
+        System.out.println("Bom dia!!!");
         // calculo de area - reduzido
 
         int largura = 4;
